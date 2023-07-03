@@ -43,7 +43,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="(https://github-readme-stats.vercel.app/api?username=demalee&hide=contribs,prs" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demalee&theme=radical&layout=compact" />\\   
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demalee&theme=radical&layout=compact" />  
 </div>
 
 
