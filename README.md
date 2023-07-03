@@ -42,7 +42,8 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=demalee&show_icons=true&theme=radical" />
+ ![Demalee's GitHub stats]
+ <img class="img" src="(https://github-readme-stats.vercel.app/api?username=demalee&hide=contribs,prs" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demalee&theme=radical&layout=compact" />\\   
 </div>
 
