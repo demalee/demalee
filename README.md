@@ -2,6 +2,8 @@
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=demalee&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demalee&theme=radical&layout=compact" />
+ [![Demalee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demalee)](https://github.com/demalee/github-readme-stats)
+
 </div>
 <!--
 **demalee/demalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
