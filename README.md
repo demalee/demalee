@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning **Nodejs**
 - 💬 Ask me about **Vue, Laravel,Angularjs**
-- 📫 How to reach me **dev.demalee@gmail.com**
+- 📫 How to reach me **[![Gmail Badge](https://img.shields.io/badge/-dev.demalee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.demalee@gmail.com)](mailto:dev.demalee@gmail.com)**
 - 📄 Know about my experiences [(https://kibet.savannah-tech.co.ke/)](https://kibet.savannah-tech.co.ke/)
 
-[![Gmail Badge](https://img.shields.io/badge/-dev.demalee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.demalee@gmail.com)](mailto:dev.demalee@gmail.com)
+
 
 ## ⚡ Technologies
 
