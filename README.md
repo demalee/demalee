@@ -4,7 +4,7 @@
 
 For any web project or  mobile projects feel free to contact me via dev.demalee@gmail.com.
 
-[[![Linkedin Badge](https://img.shields.io/badge/-demalee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/demalee-kipkoech-kibet-670387157/)[[[https://www.linkedin.com/in/samvsuel](https://www.linkedin.com/in/demalee-kipkoech-kibet-670387157/)](https://www.linkedin.com/in/demalee-kipkoech-kibet-670387157/)](https://www.linkedin.com/in/demalee-kipkoech-kibet-670387157/)/)]
+[[![Linkedin Badge](https://img.shields.io/badge/-demalee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demalee-kipkoech-kibet-670387157/)
 [![Gmail Badge](https://img.shields.io/badge/-dev.demalee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.demalee@gmail.com)](mailto:dev.demalee@gmail.com)
 
 ## ⚡ Technologies
