@@ -5,8 +5,10 @@
 - 📫 How to reach me **dev.demalee@gmail.com**
 - 📄 Know about my experiences [(https://kibet.savannah-tech.co.ke/)](https://kibet.savannah-tech.co.ke/)
 
-  
-[![Linkedin Badge](https://img.shields.io/badge/-demalee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demalee-kipkoech-kibet-670387157/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Demalee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/demalee-kipkoech-kibet-670387157/)]([https://www.linkedin.com/in/samvsuel/](https://www.linkedin.com/in/demalee-kipkoech-kibet-670387157/))
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 [![Gmail Badge](https://img.shields.io/badge/-dev.demalee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.demalee@gmail.com)](mailto:dev.demalee@gmail.com)
 
 ## ⚡ Technologies
